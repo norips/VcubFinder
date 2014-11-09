@@ -66,6 +66,12 @@ import java.util.List;
 
 
 public class MapsActivity extends FragmentActivity{
+    //API KEY pour la cub
+    String APICUB = "APIKEY";
+
+
+
+
     CameraPosition cameraPosition;
     private LocationManager locationManager;
     private GoogleMap mMap; // Might be null if Google Play services APK is not available.
@@ -245,7 +251,7 @@ public class MapsActivity extends FragmentActivity{
     private void setUpMap()  {
         mMap.animateCamera(CameraUpdateFactory.newCameraPosition(cameraPosition));
        // new setMarker().execute("http://data.lacub.fr/files.php?gid=43&format=6");
-        new setPlace().execute("http://data.lacub.fr/wfs?key=IL6PD1P6U0&SERVICE=WFS&VERSION=1.0.0&REQUEST=GetFeature&TYPENAME=CI_VCUB_P&SRSNAME=EPSG:3945");
+        new setPlace().execute("http://data.lacub.fr/wfs?key=" + APICUB +"&SERVICE=WFS&VERSION=1.0.0&REQUEST=GetFeature&TYPENAME=CI_VCUB_P&SRSNAME=EPSG:3945");
     }
 
     private class setPlace extends AsyncTask<String, Void, ArrayList<HmMarker>   > {
