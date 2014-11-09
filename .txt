@@ -1,0 +1,20 @@
+commit 41315e651252d3a64782b2ae7e74a5097ca3b2e9
+tree 7fe1949efbdb29c8fd18d3791c02e2b0bf675ff7
+parent 7ca023ecf563fb5a9b48fab634d33590c49e89c7
+author silvermoon <raphdruon@gmail.com> 1415567489 +0100
+committer silvermoon <raphdruon@gmail.com> 1415567489 +0100
+
+    Revert "Revert "Initial commit""
+    
+    This reverts commit 7ca023ecf563fb5a9b48fab634d33590c49e89c7.
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..e34cc62
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,4 @@
++VcubFinder
++==========
++
++A vcub finder app

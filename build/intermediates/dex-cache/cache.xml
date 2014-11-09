@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-6d58b3ccf80cf7095c3f0691b781ee20ed33472c.jar"
+        jar="/home/silvermoon/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/classes-d0d09ba2e2ecdde9ab053be47ed4924b72e08983.jar"
+        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a"/>
+    <item
+        dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/opencsv-3.0-387962fb2d162739b5fb1fb0c30ec228a1739afe.jar"
+        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/libs/opencsv-3.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8f5f973158e0aeada6378c685753fc0261019399"/>
+    <item
+        dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-c0993a075bca0f68d72a9367bca4bbe37a8b7428.jar"
+        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/simple-xml-2.7.1-9b763abc3c98c5065121b724e3a6a8a84598ad0f.jar"
+        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/simple-xml-2.7.1/simple-xml-2.7.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="083623424bcfa03bd598e709765bad0816c2375d"/>
+    <item
+        dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/classes-90613c82861445f7eb0d86f7542b430506178198.jar"
+        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/classes-345777e7aed75ba4df235d190d3511cc7513ccc1.jar"
+        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136"/>
+
+</pre-dex-items>

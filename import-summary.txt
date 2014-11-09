@@ -1,0 +1,244 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* build.gradle
+* doc/
+* doc/allclasses-frame.html
+* doc/allclasses-noframe.html
+* doc/com/
+* doc/com/ekito/
+* doc/com/ekito/simpleKML/
+* doc/com/ekito/simpleKML/BuildConfig.html
+* doc/com/ekito/simpleKML/Serializer.html
+* doc/com/ekito/simpleKML/class-use/
+* doc/com/ekito/simpleKML/class-use/BuildConfig.html
+* doc/com/ekito/simpleKML/class-use/Serializer.html
+* doc/com/ekito/simpleKML/model/
+* doc/com/ekito/simpleKML/model/AbstractView.html
+* doc/com/ekito/simpleKML/model/Alias.html
+* doc/com/ekito/simpleKML/model/BaloonStyle.html
+* doc/com/ekito/simpleKML/model/Boundary.html
+* doc/com/ekito/simpleKML/model/Camera.html
+* doc/com/ekito/simpleKML/model/Change.html
+* doc/com/ekito/simpleKML/model/ColorStyle.html
+* doc/com/ekito/simpleKML/model/Coordinate.html
+* doc/com/ekito/simpleKML/model/Coordinates.html
+* doc/com/ekito/simpleKML/model/Create.html
+* doc/com/ekito/simpleKML/model/Data.html
+* doc/com/ekito/simpleKML/model/Delete.html
+* doc/com/ekito/simpleKML/model/Document.html
+* doc/com/ekito/simpleKML/model/ExtendedData.html
+* doc/com/ekito/simpleKML/model/Feature.html
+* doc/com/ekito/simpleKML/model/Folder.html
+* doc/com/ekito/simpleKML/model/Geometry.html
+* doc/com/ekito/simpleKML/model/GroundOverlay.html
+* doc/com/ekito/simpleKML/model/HotSpot.html
+* doc/com/ekito/simpleKML/model/Icon.html
+* doc/com/ekito/simpleKML/model/IconStyle.html
+* doc/com/ekito/simpleKML/model/ImagePyramid.html
+* doc/com/ekito/simpleKML/model/Kml.html
+* doc/com/ekito/simpleKML/model/LabelStyle.html
+* doc/com/ekito/simpleKML/model/LatLonAltBox.html
+* doc/com/ekito/simpleKML/model/LatLonBox.html
+* doc/com/ekito/simpleKML/model/LatLonQuad.html
+* doc/com/ekito/simpleKML/model/LineString.html
+* doc/com/ekito/simpleKML/model/LineStyle.html
+* doc/com/ekito/simpleKML/model/LinearRing.html
+* doc/com/ekito/simpleKML/model/Link.html
+* doc/com/ekito/simpleKML/model/ListStyle.html
+* doc/com/ekito/simpleKML/model/Location.html
+* doc/com/ekito/simpleKML/model/Lod.html
+* doc/com/ekito/simpleKML/model/LookAt.html
+* doc/com/ekito/simpleKML/model/Model.html
+* doc/com/ekito/simpleKML/model/MultiGeometry.html
+* doc/com/ekito/simpleKML/model/MultiTrack.html
+* doc/com/ekito/simpleKML/model/NetworkLink.html
+* doc/com/ekito/simpleKML/model/NetworkLinkControl.html
+* doc/com/ekito/simpleKML/model/Object.html
+* doc/com/ekito/simpleKML/model/Option.html
+* doc/com/ekito/simpleKML/model/Orientation.html
+* doc/com/ekito/simpleKML/model/Overlay.html
+* doc/com/ekito/simpleKML/model/Pair.html
+* doc/com/ekito/simpleKML/model/PhotoOverlay.html
+* doc/com/ekito/simpleKML/model/Placemark.html
+* doc/com/ekito/simpleKML/model/Point.html
+* doc/com/ekito/simpleKML/model/PolyStyle.html
+* doc/com/ekito/simpleKML/model/Polygon.html
+* doc/com/ekito/simpleKML/model/Region.html
+* doc/com/ekito/simpleKML/model/ResourceMap.html
+* doc/com/ekito/simpleKML/model/Scale.html
+* doc/com/ekito/simpleKML/model/Schema.html
+* doc/com/ekito/simpleKML/model/SchemaData.html
+* doc/com/ekito/simpleKML/model/ScreenOverlay.html
+* doc/com/ekito/simpleKML/model/SimpleData.html
+* doc/com/ekito/simpleKML/model/SimpleField.html
+* doc/com/ekito/simpleKML/model/Style.html
+* doc/com/ekito/simpleKML/model/StyleMap.html
+* doc/com/ekito/simpleKML/model/StyleSelector.html
+* doc/com/ekito/simpleKML/model/TimePrimitive.html
+* doc/com/ekito/simpleKML/model/TimeSpan.html
+* doc/com/ekito/simpleKML/model/TimeStamp.html
+* doc/com/ekito/simpleKML/model/Track.html
+* doc/com/ekito/simpleKML/model/Update.html
+* doc/com/ekito/simpleKML/model/UpdateProcess.html
+* doc/com/ekito/simpleKML/model/ViewVolume.html
+* doc/com/ekito/simpleKML/model/ViewerOptions.html
+* doc/com/ekito/simpleKML/model/atom/
+* doc/com/ekito/simpleKML/model/atom/Link.html
+* doc/com/ekito/simpleKML/model/atom/class-use/
+* doc/com/ekito/simpleKML/model/atom/class-use/Link.html
+* doc/com/ekito/simpleKML/model/atom/package-frame.html
+* doc/com/ekito/simpleKML/model/atom/package-summary.html
+* doc/com/ekito/simpleKML/model/atom/package-tree.html
+* doc/com/ekito/simpleKML/model/atom/package-use.html
+* doc/com/ekito/simpleKML/model/class-use/
+* doc/com/ekito/simpleKML/model/class-use/AbstractView.html
+* doc/com/ekito/simpleKML/model/class-use/Alias.html
+* doc/com/ekito/simpleKML/model/class-use/BaloonStyle.html
+* doc/com/ekito/simpleKML/model/class-use/Boundary.html
+* doc/com/ekito/simpleKML/model/class-use/Camera.html
+* doc/com/ekito/simpleKML/model/class-use/Change.html
+* doc/com/ekito/simpleKML/model/class-use/ColorStyle.html
+* doc/com/ekito/simpleKML/model/class-use/Coordinate.html
+* doc/com/ekito/simpleKML/model/class-use/Coordinates.html
+* doc/com/ekito/simpleKML/model/class-use/Create.html
+* doc/com/ekito/simpleKML/model/class-use/Data.html
+* doc/com/ekito/simpleKML/model/class-use/Delete.html
+* doc/com/ekito/simpleKML/model/class-use/Document.html
+* doc/com/ekito/simpleKML/model/class-use/ExtendedData.html
+* doc/com/ekito/simpleKML/model/class-use/Feature.html
+* doc/com/ekito/simpleKML/model/class-use/Folder.html
+* doc/com/ekito/simpleKML/model/class-use/Geometry.html
+* doc/com/ekito/simpleKML/model/class-use/GroundOverlay.html
+* doc/com/ekito/simpleKML/model/class-use/HotSpot.html
+* doc/com/ekito/simpleKML/model/class-use/Icon.html
+* doc/com/ekito/simpleKML/model/class-use/IconStyle.html
+* doc/com/ekito/simpleKML/model/class-use/ImagePyramid.html
+* doc/com/ekito/simpleKML/model/class-use/Kml.html
+* doc/com/ekito/simpleKML/model/class-use/LabelStyle.html
+* doc/com/ekito/simpleKML/model/class-use/LatLonAltBox.html
+* doc/com/ekito/simpleKML/model/class-use/LatLonBox.html
+* doc/com/ekito/simpleKML/model/class-use/LatLonQuad.html
+* doc/com/ekito/simpleKML/model/class-use/LineString.html
+* doc/com/ekito/simpleKML/model/class-use/LineStyle.html
+* doc/com/ekito/simpleKML/model/class-use/LinearRing.html
+* doc/com/ekito/simpleKML/model/class-use/Link.html
+* doc/com/ekito/simpleKML/model/class-use/ListStyle.html
+* doc/com/ekito/simpleKML/model/class-use/Location.html
+* doc/com/ekito/simpleKML/model/class-use/Lod.html
+* doc/com/ekito/simpleKML/model/class-use/LookAt.html
+* doc/com/ekito/simpleKML/model/class-use/Model.html
+* doc/com/ekito/simpleKML/model/class-use/MultiGeometry.html
+* doc/com/ekito/simpleKML/model/class-use/MultiTrack.html
+* doc/com/ekito/simpleKML/model/class-use/NetworkLink.html
+* doc/com/ekito/simpleKML/model/class-use/NetworkLinkControl.html
+* doc/com/ekito/simpleKML/model/class-use/Object.html
+* doc/com/ekito/simpleKML/model/class-use/Option.html
+* doc/com/ekito/simpleKML/model/class-use/Orientation.html
+* doc/com/ekito/simpleKML/model/class-use/Overlay.html
+* doc/com/ekito/simpleKML/model/class-use/Pair.html
+* doc/com/ekito/simpleKML/model/class-use/PhotoOverlay.html
+* doc/com/ekito/simpleKML/model/class-use/Placemark.html
+* doc/com/ekito/simpleKML/model/class-use/Point.html
+* doc/com/ekito/simpleKML/model/class-use/PolyStyle.html
+* doc/com/ekito/simpleKML/model/class-use/Polygon.html
+* doc/com/ekito/simpleKML/model/class-use/Region.html
+* doc/com/ekito/simpleKML/model/class-use/ResourceMap.html
+* doc/com/ekito/simpleKML/model/class-use/Scale.html
+* doc/com/ekito/simpleKML/model/class-use/Schema.html
+* doc/com/ekito/simpleKML/model/class-use/SchemaData.html
+* doc/com/ekito/simpleKML/model/class-use/ScreenOverlay.html
+* doc/com/ekito/simpleKML/model/class-use/SimpleData.html
+* doc/com/ekito/simpleKML/model/class-use/SimpleField.html
+* doc/com/ekito/simpleKML/model/class-use/Style.html
+* doc/com/ekito/simpleKML/model/class-use/StyleMap.html
+* doc/com/ekito/simpleKML/model/class-use/StyleSelector.html
+* doc/com/ekito/simpleKML/model/class-use/TimePrimitive.html
+* doc/com/ekito/simpleKML/model/class-use/TimeSpan.html
+* doc/com/ekito/simpleKML/model/class-use/TimeStamp.html
+* doc/com/ekito/simpleKML/model/class-use/Track.html
+* doc/com/ekito/simpleKML/model/class-use/Update.html
+* doc/com/ekito/simpleKML/model/class-use/UpdateProcess.html
+* doc/com/ekito/simpleKML/model/class-use/ViewVolume.html
+* doc/com/ekito/simpleKML/model/class-use/ViewerOptions.html
+* doc/com/ekito/simpleKML/model/package-frame.html
+* doc/com/ekito/simpleKML/model/package-summary.html
+* doc/com/ekito/simpleKML/model/package-tree.html
+* doc/com/ekito/simpleKML/model/package-use.html
+* doc/com/ekito/simpleKML/package-frame.html
+* doc/com/ekito/simpleKML/package-summary.html
+* doc/com/ekito/simpleKML/package-tree.html
+* doc/com/ekito/simpleKML/package-use.html
+* doc/constant-values.html
+* doc/deprecated-list.html
+* doc/help-doc.html
+* doc/index-files/
+* doc/index-files/index-1.html
+* doc/index-files/index-10.html
+* doc/index-files/index-11.html
+* doc/index-files/index-12.html
+* doc/index-files/index-13.html
+* doc/index-files/index-14.html
+* doc/index-files/index-15.html
+* doc/index-files/index-16.html
+* doc/index-files/index-17.html
+* doc/index-files/index-18.html
+* doc/index-files/index-19.html
+* doc/index-files/index-2.html
+* doc/index-files/index-20.html
+* doc/index-files/index-21.html
+* doc/index-files/index-3.html
+* doc/index-files/index-4.html
+* doc/index-files/index-5.html
+* doc/index-files/index-6.html
+* doc/index-files/index-7.html
+* doc/index-files/index-8.html
+* doc/index-files/index-9.html
+* doc/index.html
+* doc/overview-frame.html
+* doc/overview-summary.html
+* doc/overview-tree.html
+* doc/package-list
+* doc/resources/
+* doc/resources/inherit.gif
+* doc/stylesheet.css
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => simpleKML/src/main/AndroidManifest.xml
+* assets/ => simpleKML/src/main/assets/
+* libs/simple-xml-2.6.3.jar => simpleKML/libs/simple-xml-2.6.3.jar
+* res/ => simpleKML/src/main/res/
+* src/ => simpleKML/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
