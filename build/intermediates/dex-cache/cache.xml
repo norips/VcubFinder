@@ -2,6 +2,18 @@
 <pre-dex-items>
 
     <item
+        dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/simple-xml-2.7.1-9b763abc3c98c5065121b724e3a6a8a84598ad0f.jar"
+        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/simple-xml-2.7.1/simple-xml-2.7.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="083623424bcfa03bd598e709765bad0816c2375d"/>
+    <item
+        dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/classes-90613c82861445f7eb0d86f7542b430506178198.jar"
+        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
         dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-6d58b3ccf80cf7095c3f0691b781ee20ed33472c.jar"
         jar="/home/silvermoon/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
         jumboMode="false"
@@ -25,18 +37,6 @@
         jumboMode="false"
         revision="20.0.0"
         sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
-    <item
-        dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/simple-xml-2.7.1-9b763abc3c98c5065121b724e3a6a8a84598ad0f.jar"
-        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/simple-xml-2.7.1/simple-xml-2.7.1.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="083623424bcfa03bd598e709765bad0816c2375d"/>
-    <item
-        dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/classes-90613c82861445f7eb0d86f7542b430506178198.jar"
-        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
     <item
         dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/debug/classes-345777e7aed75ba4df235d190d3511cc7513ccc1.jar"
         jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"

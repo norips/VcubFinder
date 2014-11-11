@@ -9,6 +9,7 @@ import android.location.LocationManager;
 import android.location.LocationListener;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
+import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.provider.Settings;
@@ -32,6 +33,7 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.norips.silvermoon.vcubfinder.KMLStation.ExtendedData;
 import com.norips.silvermoon.vcubfinder.KMLStation.Folder;
@@ -235,6 +237,17 @@ public class MapsActivity extends FragmentActivity{
                     .build();                   // Creates a CameraPosition from the builder
             mMap.animateCamera(CameraUpdateFactory.newCameraPosition(cameraPosition));
 
+            //Set click listener on info windows
+            mMap.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
+                @Override
+                public void onInfoWindowClick(Marker mark) {
+                    LatLng location = mark.getPosition();
+                    Intent intent = new Intent(android.content.Intent.ACTION_VIEW,
+                            Uri.parse("http://maps.google.com/maps?daddr=" + String.valueOf(location.latitude)+ ","  + String.valueOf(location.longitude) ));
+                    intent.setClassName("com.google.android.apps.maps", "com.google.android.maps.MapsActivity");
+                    startActivity(intent);
+                }
+            });
             // Check if we were successful in obtaining the map.
             if (mMap != null) {
                 setUpMap();
