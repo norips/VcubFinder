@@ -1620,7 +1620,7 @@
 <SimpleData name="COMMUNE">PESSAC</SimpleData>
 <SimpleData name="LIGNCORR">B/24/Corol 36/Flexo 54</SimpleData>
 <SimpleData name="NBSUPPOR">20</SimpleData>
-<SimpleData name="NOM">Bougnard (retirée depuis le 9 nov 2012 en raison travaux extension tram - réouverture fin 2014)</SimpleData>
+<SimpleData name="NOM">Bougnard</SimpleData>
 <SimpleData name="TARIF">VLS PLUS</SimpleData>
 <SimpleData name="TERMBANC">OUI</SimpleData>
 <SimpleData name="TYPEA">VCUB</SimpleData>
