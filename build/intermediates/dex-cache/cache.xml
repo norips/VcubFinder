@@ -3,21 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jar="/home/norips/.android/build-cache/edf09b0ea6fc35919c30c44901a279c55bb8d04a/output/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.1.1_f3b98e6a6676277c5e65783908e4b1656d0865b9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
         sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1_e2fe52e1ce8763f04a3d2ed34ebe35f71837b56b.jar" />
+        <dex dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1_03601afb5be864ad1247a6a7f0bccf26252b2881.jar" />
     </item>
     <item
         is-multidex="false"
@@ -25,6 +16,24 @@
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
+        sha1="083623424bcfa03bd598e709765bad0816c2375d">
+        <dex dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/release/simple-xml-2.7.1_9b763abc3c98c5065121b724e3a6a8a84598ad0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/silvermoon/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1_b88fb256279aade8d659db84d654dee6bc04f0b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/simple-xml-2.7.1/simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
         sha1="083623424bcfa03bd598e709765bad0816c2375d">
         <dex dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/release/simple-xml-2.7.1_9b763abc3c98c5065121b724e3a6a8a84598ad0f.jar" />
     </item>
@@ -39,6 +48,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/libs/opencsv-3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f5f973158e0aeada6378c685753fc0261019399">
+        <dex dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/release/opencsv-3.0_387962fb2d162739b5fb1fb0c30ec228a1739afe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/norips/.android/build-cache/92c2a96ea503bfb7456b32caca8d6353c9e36a67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a">
+        <dex dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/release/classes_0ea01d67313456c492cc33742b1964b277871070.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/silvermoon/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
         jumboMode="false"
         optimize="true"
@@ -48,21 +75,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/jars/classes.jar"
+        jar="/home/norips/.android/build-cache/0d5558f10277c3d4781f950bc08cb63da037c24c/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.2"
-        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a">
-        <dex dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-4.2.42_a065807cafa7b38236fee60f2d385ecb9f9b0126.jar" />
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/release/classes_f58b3392804f7efe66577b8e5bef362bdb12dac5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jar="/home/norips/.android/build-cache/edf09b0ea6fc35919c30c44901a279c55bb8d04a/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
         sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.1.1_cf835cbbbb2b27c5eaef9bb37af9dff3cd4a7258.jar" />
+        <dex dex="/home/silvermoon/AndroidStudioProjects/VcubFinder/app/build/intermediates/pre-dexed/release/classes_b56e8cd9c7f3db2c182c0340b8b3f2d4e5799ecc.jar" />
     </item>
 
 </items>

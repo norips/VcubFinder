@@ -10,14 +10,14 @@ android {
         }
     }
     compileSdkVersion 23
-    buildToolsVersion '23.0.2'
+    buildToolsVersion '25.0.0'
     defaultConfig {
         applicationId "com.norips.silvermoon.vcubfinder"
         minSdkVersion 11
         targetSdkVersion 23
-        versionName '2.0.4'
+        versionName '2.0.5'
         signingConfig signingConfigs.config
-        versionCode 9
+        versionCode 10
     }
     buildTypes {
         release {
